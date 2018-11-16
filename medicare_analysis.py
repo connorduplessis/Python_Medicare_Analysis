@@ -63,4 +63,4 @@ layout = dict(
 fig = dict( data=mapdata, layout=layout )
 py.offline.plot( fig, filename='statemap.html' )
 
-#From this map it doesn't appear that any particular region of the country is more or less expensive than others.
+#From this map it doesn't appear that any particular region of the country is more or less expensive than others. More analysis needed
